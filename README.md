@@ -6,15 +6,14 @@
 * Candle Count: Watch the candle count change dynamically 🔢.
 * Engaging UI: Engage with a user-friendly interface.
 
-## Accessing the project:
-
-Visit this link: [WISKI](https://raw.githack.com/angieolonan03/Interactive-BIrthday-Cake/main/Feb.4/index.html)
-
-## How to Use:
+## How to Use
 1. Go to the provided link.
 2. Allow microphone access.
 3. Play music.
 4. Click on the cake to add candles.
 5. Blow into your device's microphone to blow out the candles.
+
+## Accessing the project
+Visit this link: [WISKI](https://raw.githack.com/angieolonan03/Interactive-BIrthday-Cake/main/Feb.4/index.html)
 
 
